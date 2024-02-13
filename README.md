@@ -1,16 +1,7 @@
-# weather_app
+Dokumentasi Laporan Screenshoot 
 
-A new Flutter project.
+Dalam Celcius
+![WhatsApp Image 2024-02-14 at 04 25 20](https://github.com/afyar08/proyek4/assets/117814143/4ce8da5a-f4e1-423d-89ac-faa4932acc42)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dalam Fahrenheit
+![WhatsApp Image 2024-02-14 at 04 25 20 (1)](https://github.com/afyar08/proyek4/assets/117814143/8c45b126-58df-4a78-8285-331fba75ebb1)
